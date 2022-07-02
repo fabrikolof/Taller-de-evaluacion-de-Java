@@ -79,7 +79,6 @@ public class Ejecutable {
         /*
         Por último, mostrar la información de cada objeto.
         * */
-
         System.out.println(per1.toString());
         System.out.println(per2.toString());
         System.out.println(per3.toString());
